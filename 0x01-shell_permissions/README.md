@@ -12,4 +12,3 @@
 11. Adds x permission to all subdirectories of current directory for ugo. No change to regular files.
 12. Creates directory with specific permissions
 13. Group school owns hello now
-
