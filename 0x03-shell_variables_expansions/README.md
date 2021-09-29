@@ -1,5 +1,5 @@
 # Shell 
-#### I/O Redirections and filters
+#### init files, variables and expansions
 0. Creates the ls alias
 1. Day two of week one and it's not better than yesterday
 2. Adds /action to PATH
