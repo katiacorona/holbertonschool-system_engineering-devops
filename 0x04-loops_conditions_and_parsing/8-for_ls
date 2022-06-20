@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script displays the content of the current directory in list format
 list=$( ls )
 for val in $list; do
