@@ -1,0 +1,12 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+tests/
+*__
+# ignore main files
+*main.py
+0-key
+67-stop_me_if_you_can
+example.rb
